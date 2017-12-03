@@ -69,6 +69,7 @@ def classifer_train_pickle(classify_list):
 
 classifer_train_pickle(classifier_list)
 
+# chunk ENDS here
 
 
 save_testing_sets = open("test/testing_sets.pickle", "wb")
